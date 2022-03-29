@@ -10,4 +10,4 @@ for j in range(0,12):
 
 masked=masked.join(l)
 print(masked)
-print(card_no)
+# print(card_no) del this var for security 
